@@ -28,11 +28,9 @@ This project is an end-to-end AI-powered platform for designing personalized can
 * PyTorch
 * XGBoost
 * Scikit-learn
-* Hugging Face Transformers
 
 ### 🧬 Bioinformatics Tools
-
-* NetMHCpan 4.1
+* TCGA Dataset
 * OptiType (HLA typing)
 * Ensembl VEP (mutation annotation)
 * Biopython
@@ -49,7 +47,6 @@ This project is an end-to-end AI-powered platform for designing personalized can
 
 ### 🚀 Deployment
 
-* Docker
 * Google Colab Pro / AWS EC2
 * Streamlit Cloud / Render
 
@@ -85,8 +82,8 @@ This project is an end-to-end AI-powered platform for designing personalized can
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/yourusername/ai-cancer-vaccine-platform
-$ cd ai-cancer-vaccine-platform
+$ git clone https://github.com/gladwin24/VacciDesign
+$ cd VacciDesign
 
 # Create virtual environment
 $ python -m venv venv
@@ -136,7 +133,6 @@ $ streamlit run app.py
 
 ## 🧑‍💻 Contributors
 
-* Diana Regi
 * Gladwin Alappat
 * Joel Joshy
 
@@ -151,8 +147,8 @@ MIT License – free to use for academic and research purposes.
 ## 📬 Contact
 
 For queries, collaborations, or demos, please contact:
-📧 [gladwinalappat123@gmail.com](mailto:gladwinalappat123@gmail.com)
-🌐 [GitHub](https://github.com/yourusername)
+📧 [gladwin14@gmail.com](mailto:gladwin14@gmail.com)
+🌐 [GitHub](https://github.com/gladwin24)
 
 ---
 
