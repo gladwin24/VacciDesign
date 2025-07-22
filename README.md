@@ -1,4 +1,4 @@
-# VacciDes
+# VacciDesign
 AI-Powered Personalized Cancer Vaccine Design Platform
 
 # AI-Powered Personalized Cancer Vaccine Design Platform
