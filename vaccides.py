@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import time
 
 # Load trained XGBoost model
-model = joblib.load("D://iisc_pro//LIHC//xgb_best_model.pkl")
+model = joblib.load("D:\\iisc_pro\\VacciDes\\xgb_best_model.pkl")
 
 # One-hot encoding function for 21-mer peptides
 amino_acids = 'ACDEFGHIKLMNPQRSTVWY'
